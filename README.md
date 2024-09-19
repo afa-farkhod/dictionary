@@ -5,3 +5,4 @@ Dictionary - saves useful terminology in CS
 - `web3signer` - is an open-source remote signing service that allows validators to securely sign blocks and attestations on multiple platforms. Web3Signer can sign on Ethereum1 and 2, and Filecoin. Web3Signer allows a  Validator Client (VC) to outsource the signing of messages to a remote server.
 - `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
 - `Blob storage` is a type of cloud storage that stores large amounts of unstructured data in non-hierarchical storage areas. The term "blob" is short for "binary large object". 
+- `Synchronous vs Asynchronous` -  Synchronous means happening at the same time, while asynchronous means not happening at the same time. Synchronous operations are performed one at a time, while asynchronous operations can run independently and at the same time. 
