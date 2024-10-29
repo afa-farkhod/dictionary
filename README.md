@@ -6,4 +6,4 @@ Dictionary - saves useful terminology in CS
 - `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
 - `Blob storage` is a type of cloud storage that stores large amounts of unstructured data in non-hierarchical storage areas. The term "blob" is short for "binary large object". 
 - `Synchronous vs Asynchronous` -  Synchronous means happening at the same time, while asynchronous means not happening at the same time. Synchronous operations are performed one at a time, while asynchronous operations can run independently and at the same time. 
-- `Fail2Ban` 
+- `Fail2Ban` - a tool for scanning log files, detecting suspicious activity such as too many failed authentication attempts, and blocking potentially malicious IP addresses. This free service helps protect Linux machines from brute forcing and other automated attacks.
