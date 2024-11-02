@@ -11,5 +11,4 @@ Dictionary - saves useful terminology in CS
 
 
 ```diff
-- This line will appear red (for removed text)
-+ This line will appear green (for added text)
+test
