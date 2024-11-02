@@ -8,3 +8,8 @@ Dictionary - saves useful terminology in CS
 - `Synchronous vs Asynchronous` -  Synchronous means happening at the same time, while asynchronous means not happening at the same time. Synchronous operations are performed one at a time, while asynchronous operations can run independently and at the same time. 
 - `Fail2Ban` - a tool for scanning log files, detecting suspicious activity such as too many failed authentication attempts, and blocking potentially malicious IP addresses. This free service helps protect Linux machines from brute forcing and other automated attacks. [Reference](https://siddhivinayak-sk.medium.com/prevent-your-website-from-brute-force-attacks-use-fail2ban-to-block-malicious-clients-92b15b5ae4ec)
 - `AVS` - stands for Actively Validated Service in blockchain. AVS is a new concept in crypto-economic security that allows developers to use Ethereum's economic security infrastructure to create new AVSs. EigenLayer is a protocol built on Ethereum that uses restaking to create AVSs.
+
+
+```diff
+- This line will appear red (for removed text)
++ This line will appear green (for added text)
