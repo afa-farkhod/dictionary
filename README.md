@@ -1,4 +1,4 @@
-# dictionary
+# Dictionary
 Dictionary - saves useful terminology in CS
 
 - `Object Storage` -  is a data storage architecture that stores data in units called objects, which are bundled with metadata and a unique identifier. Object storage is often used to store large amounts of unstructured data, such as photos, videos, email, and sensor data. Object storage is commonly used for backups, archiving, cloud-native applications, big data, and more. 
@@ -11,4 +11,4 @@ Dictionary - saves useful terminology in CS
 - `EVM` - The Ethereum Virtual Machine (EVM) is a decentralized computation engine that executes smart contracts on the Ethereum network. It is a crucial component of Ethereum's infrastructure, enabling the execution of code exactly as intended.
 - [Pinpoint](https://pinpoint-apm.gitbook.io/pinpoint) - is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP. Inspired by Dapper, `Pinpoint` provides a solution to help analyze the overall structure of the system and how components within them are interconnected by tracing transactions across distributed applications.
 - `Canvas` is a course management system (LMS) that helps teachers and students with online learning and teaching
-- [Digital Nomad](https://en.wikipedia.org/wiki/Digital_nomad)
+- [Digital Nomad](https://en.wikipedia.org/wiki/Digital_nomad) -  people who travel freely while working remotely using technology and the internet.[1] Such people generally have minimal material possessions and work remotely in temporary housing, hotels, cafes, public libraries, co-working spaces, or recreational vehicles, using Wi-Fi, smartphones or mobile hotspots to access the Internet
