@@ -11,3 +11,4 @@ Dictionary - saves useful terminology in CS
 - `EVM` - The Ethereum Virtual Machine (EVM) is a decentralized computation engine that executes smart contracts on the Ethereum network. It is a crucial component of Ethereum's infrastructure, enabling the execution of code exactly as intended.
 - [Pinpoint](https://pinpoint-apm.gitbook.io/pinpoint) - is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP. Inspired by Dapper, `Pinpoint` provides a solution to help analyze the overall structure of the system and how components within them are interconnected by tracing transactions across distributed applications.
 - `Canvas` is a course management system (LMS) that helps teachers and students with online learning and teaching
+- [Digital Nomad](https://en.wikipedia.org/wiki/Digital_nomad)
