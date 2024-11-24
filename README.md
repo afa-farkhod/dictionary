@@ -18,4 +18,6 @@ Dictionary - saves useful terminology in CS
 curl -L https://foundry.paradigm.xyz | bash
 foundryup
 
+# check installation
+cast --version
 ```
