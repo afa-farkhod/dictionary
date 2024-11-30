@@ -13,7 +13,7 @@ Dictionary - saves useful terminology in CS
 - `Canvas` is a course management system (LMS - Learning Management System) that helps teachers and students with online learning and teaching
 - [Digital Nomad](https://en.wikipedia.org/wiki/Digital_nomad) -  people who travel freely while working remotely using technology and the internet.[1] Such people generally have minimal material possessions and work remotely in temporary housing, hotels, cafes, public libraries, co-working spaces, or recreational vehicles, using Wi-Fi, smartphones or mobile hotspots to access the Internet
 - [Jenkins](https://www.jenkins.io/) is an open-source automation server used for continuous integration (CI) and continuous delivery (CD) in software development. It allows developers to automate the building, testing and deployment of applications, making the development process more efficient and reliable.
-- [Light Node Vs Full Node](https://www.ledger.com/academy/glossary/light-node) - 
+- [Light Node Vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network.
 - [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
 ```
 # cast is part of Foundry, so you’ll need to install Foundry first:
