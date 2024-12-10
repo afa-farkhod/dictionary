@@ -16,7 +16,7 @@ Dictionary - saves useful terminology in CS
 - [Light Node vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network. `Full Node` contains a complete copy of the network.
 - `Software Engineer` -  generally has a broader scope, focusing on the overall system design, architecture, and technical considerations of a software project.
 - `Software Developer` - primarily focuses on building specific features and applications using code, typically working within a defined design framework created by engineers
-- Zabbix is an open-source monitoring tool that monitors IT infrastructure components, including: Networks, Servers, Virtual machines (VMs), and Cloud services. 
+- [Zabbix](https://www.zabbix.com/) - is an open-source monitoring tool that monitors IT infrastructure components, including: Networks, Servers, Virtual machines (VMs), and Cloud services. 
 - [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
 ```
 # cast is part of Foundry, so you’ll need to install Foundry first:
