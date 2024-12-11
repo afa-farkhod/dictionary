@@ -17,7 +17,7 @@ Dictionary - saves useful terminology in CS
 - `Software Engineer` -  generally has a broader scope, focusing on the overall system design, architecture, and technical considerations of a software project.
 - `Software Developer` - primarily focuses on building specific features and applications using code, typically working within a defined design framework created by engineers
 - [Zabbix](https://www.zabbix.com/) - is an open-source monitoring tool that monitors IT infrastructure components, including: Networks, Servers, Virtual machines (VMs), and Cloud services.
-- [Intel SGX](https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/software-guard-extensions.html) - 
+- [Intel SGX](https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/software-guard-extensions.html) - The Intel Software Guard Extensions (SGX) is a feature that uses hardware-level encryption to protect your sensitive data from security breaches.
 - [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
 ```
 # cast is part of Foundry, so you’ll need to install Foundry first:
