@@ -20,6 +20,7 @@ Dictionary - saves useful terminology in CS
 - [Intel SGX](https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/software-guard-extensions.html) - The Intel Software Guard Extensions (SGX) is a feature that uses hardware-level encryption to protect your sensitive data from security breaches.
 - [Gemini](https://blog.google/technology/ai/google-gemini-ai/#sundar-note) is Google's AI model that uses natural language processing (NLP) to understand and respond to user inputs.
 - [Gamma](https://gamma.app/) - AI is an artificial intelligence-powered tool that allows users to quickly generate visually appealing presentations, documents, and webpages by simply inputting text, essentially eliminating the need for extensive design knowledge and significantly streamlining the content creation process.
+- [PSS]() - 
 - [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
 ```
 # cast is part of Foundry, so you’ll need to install Foundry first:
