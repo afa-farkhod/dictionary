@@ -1,7 +1,7 @@
 # Dictionary
 Dictionary - saves useful terminology in CS
 
-- [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
+- [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) - is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
 ```
 # cast is part of Foundry, so you’ll need to install Foundry first:
 curl -L https://foundry.paradigm.xyz | bash
