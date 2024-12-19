@@ -1,6 +1,15 @@
 # Dictionary
 Dictionary - saves useful terminology in CS
 
+- [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
+```
+# cast is part of Foundry, so you’ll need to install Foundry first:
+curl -L https://foundry.paradigm.xyz | bash
+foundryup
+
+# check installation
+cast --version
+```
 - `Object Storage` -  is a data storage architecture that stores data in units called objects, which are bundled with metadata and a unique identifier. Object storage is often used to store large amounts of unstructured data, such as photos, videos, email and sensor data. Object storage is commonly used for backups, archiving, cloud-native applications, big data and more. 
 - `web3signer` - is an open-source remote signing service that allows validators to securely sign blocks and attestations on multiple platforms. Web3Signer can sign on Ethereum-1 and 2 and Filecoin. Web3Signer allows a  Validator Client (VC) to outsource the signing of messages to a remote server.
 - `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
@@ -21,12 +30,3 @@ Dictionary - saves useful terminology in CS
 - [Gemini](https://blog.google/technology/ai/google-gemini-ai/#sundar-note) is Google's AI model that uses natural language processing (NLP) to understand and respond to user inputs.
 - [Gamma](https://gamma.app/) - AI is an artificial intelligence-powered tool that allows users to quickly generate visually appealing presentations, documents, and webpages by simply inputting text, essentially eliminating the need for extensive design knowledge and significantly streamlining the content creation process.
 - [PSS](https://forum.cosmos.network/t/chips-discussion-phase-partial-set-security-updated/11775) - Partial Set Security refers to a security model within blockchain networks, particularly in the Cosmos ecosystem, where only a subset of validators from a "provider chain" (like the Cosmos Hub) are required to secure a "consumer chain", allowing for more flexible security allocation and scalability compared to the traditional model where all validators must secure every chain.
-- [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
-```
-# cast is part of Foundry, so you’ll need to install Foundry first:
-curl -L https://foundry.paradigm.xyz | bash
-foundryup
-
-# check installation
-cast --version
-```
