@@ -23,7 +23,7 @@ cast --version
 - [IaC](https://aws.amazon.com/what-is/iac/) - Infrastructure as Code is a DevOps practice that uses code to provision and manage an organization's IT infrastructure. IaC allows developers to automate tasks like setting up, updating, and maintaining infrastructure, so they can focus on building applications.  
 - `IP address`:
   - `Private`
-  - `Public` 
+  - `Public` - public IP address is unique to the entire internet and allows your device to be identified and accessed globally
 - [Jenkins](https://www.jenkins.io/) is an open-source automation server used for continuous integration (CI) and continuous delivery (CD) in software development. It allows developers to automate the building, testing and deployment of applications, making the development process more efficient and reliable.
 - [Light Node vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network. `Full Node` contains a complete copy of the network.
 - `Object Storage` -  is a data storage architecture that stores data in units called objects, which are bundled with metadata and a unique identifier. Object storage is often used to store large amounts of unstructured data, such as photos, videos, email and sensor data. Object storage is commonly used for backups, archiving, cloud-native applications, big data and more. 
