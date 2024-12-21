@@ -22,7 +22,7 @@ cast --version
 - [Intel SGX](https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/software-guard-extensions.html) - The Intel Software Guard Extensions (SGX) is a feature that uses hardware-level encryption to protect your sensitive data from security breaches.
 - [IaC](https://aws.amazon.com/what-is/iac/) - Infrastructure as Code is a DevOps practice that uses code to provision and manage an organization's IT infrastructure. IaC allows developers to automate tasks like setting up, updating, and maintaining infrastructure, so they can focus on building applications.  
 - `IP address`:
-  - `Private`
+  - `Private` - private IP address is only used within a local network and is not visible to the wider internet
   - `Public` - public IP address is unique to the entire internet and allows your device to be identified and accessed globally
 - [Jenkins](https://www.jenkins.io/) is an open-source automation server used for continuous integration (CI) and continuous delivery (CD) in software development. It allows developers to automate the building, testing and deployment of applications, making the development process more efficient and reliable.
 - [Light Node vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network. `Full Node` contains a complete copy of the network.
