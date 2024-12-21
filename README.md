@@ -23,6 +23,10 @@ Dictionary - saves useful terminology in CS
 - [IaC](https://aws.amazon.com/what-is/iac/) - Infrastructure as Code is a DevOps practice that uses code to provision and manage an organization's IT infrastructure. IaC allows developers to automate tasks like setting up, updating, and maintaining infrastructure, so they can focus on building applications.  
 - `IP address`:
   - `Private` - private IP address is only used within a local network and is not visible to the wider internet
+      ```
+      # output of following command, look for inet and except public ip address, is the private ip address
+      ifconfig
+      ```
   - `Public` - public IP address is unique to the entire internet and allows your device to be identified and accessed globally
       ```
       # result of following command is the public ip address
