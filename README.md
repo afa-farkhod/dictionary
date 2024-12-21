@@ -6,14 +6,14 @@ Dictionary - saves useful terminology in CS
 - `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
 - `Canvas` is a course management system (LMS - Learning Management System) that helps teachers and students with online learning and teaching
 - [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) - is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
-```
-# cast is part of Foundry, so you’ll need to install Foundry first:
-curl -L https://foundry.paradigm.xyz | bash
-foundryup
-
-# check installation
-cast --version
-```
+   ```
+   # cast is part of Foundry, so you’ll need to install Foundry first:
+   curl -L https://foundry.paradigm.xyz | bash
+   foundryup
+   
+   # check installation
+   cast --version
+   ```
 - [Digital Nomad](https://en.wikipedia.org/wiki/Digital_nomad) -  people who travel freely while working remotely using technology and the internet.[1] Such people generally have minimal material possessions and work remotely in temporary housing, hotels, cafes, public libraries, co-working spaces or recreational vehicles, using Wi-Fi, smartphones or mobile hotspots to access the Internet
 - `EVM` - The Ethereum Virtual Machine (EVM) is a decentralized computation engine that executes smart contracts on the Ethereum network. It is a crucial component of Ethereum's infrastructure, enabling the execution of code exactly as intended.
 - [Fail2Ban](https://siddhivinayak-sk.medium.com/prevent-your-website-from-brute-force-attacks-use-fail2ban-to-block-malicious-clients-92b15b5ae4ec) - a tool for scanning log files, detecting suspicious activity such as too many failed authentication attempts, and blocking potentially malicious IP addresses. This free service helps protect Linux machines from brute forcing and other automated attacks.
