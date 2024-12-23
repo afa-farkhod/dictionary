@@ -34,7 +34,7 @@ Dictionary - saves useful terminology in CS
       ```
   - `127.0.0.1` - is the loop back ip adress, used by the system to communicate with itself
 - [Jenkins](https://www.jenkins.io/) is an open-source automation server used for continuous integration (CI) and continuous delivery (CD) in software development. It allows developers to automate the building, testing and deployment of applications, making the development process more efficient and reliable.
-- [Keyless Wallet]() - 
+- [Keyless Wallet](https://selfchain.xyz/keyless-wallets) - 
 - [Light Node vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network. `Full Node` contains a complete copy of the network.
 - [MPC](https://en.wikipedia.org/wiki/Secure_multi-party_computation) - Multi-party computation is a cryptographic technique that allows multiple parties to collaboratively compute a result on their private data without revealing the details of their individual inputs to each other, essentially enabling secure joint calculations while maintaining data privacy among participants involved. 
 - `Object Storage` -  is a data storage architecture that stores data in units called objects, which are bundled with metadata and a unique identifier. Object storage is often used to store large amounts of unstructured data, such as photos, videos, email and sensor data. Object storage is commonly used for backups, archiving, cloud-native applications, big data and more. 
