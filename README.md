@@ -2,6 +2,7 @@
 Dictionary - saves useful terminology in CS
 
 - `AVS` - stands for Actively Validated Service in blockchain. AVS is a new concept in crypto-economic security that allows developers to use Ethereum's economic security infrastructure to create new AVSs. EigenLayer is a protocol built on Ethereum that uses restaking to create AVSs.
+- [Benchmarking]() - 
 - `Blob storage` is a type of cloud storage that stores large amounts of unstructured data in non-hierarchical storage areas. The term "blob" is short for "binary large object". 
 - `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
 - `Canvas` is a course management system (LMS - Learning Management System) that helps teachers and students with online learning and teaching
