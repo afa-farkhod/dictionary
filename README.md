@@ -15,6 +15,7 @@ Dictionary - saves useful terminology in CS
    # check installation
    cast --version
    ```
+- [CEX vs DEX]() - 
 - [Digital Nomad](https://en.wikipedia.org/wiki/Digital_nomad) -  people who travel freely while working remotely using technology and the internet.[1] Such people generally have minimal material possessions and work remotely in temporary housing, hotels, cafes, public libraries, co-working spaces or recreational vehicles, using Wi-Fi, smartphones or mobile hotspots to access the Internet
 - `EVM` - The Ethereum Virtual Machine (EVM) is a decentralized computation engine that executes smart contracts on the Ethereum network. It is a crucial component of Ethereum's infrastructure, enabling the execution of code exactly as intended.
 - [Fail2Ban](https://siddhivinayak-sk.medium.com/prevent-your-website-from-brute-force-attacks-use-fail2ban-to-block-malicious-clients-92b15b5ae4ec) - a tool for scanning log files, detecting suspicious activity such as too many failed authentication attempts, and blocking potentially malicious IP addresses. This free service helps protect Linux machines from brute forcing and other automated attacks.
