@@ -1,5 +1,5 @@
 # Dictionary
-Dictionary - saves useful terminology in CS
+Dictionary - saves useful terminology
 
 - `AVS` - stands for Actively Validated Service in blockchain. AVS is a new concept in crypto-economic security that allows developers to use Ethereum's economic security infrastructure to create new AVSs. EigenLayer is a protocol built on Ethereum that uses restaking to create AVSs.
 - [Benchmarking](https://www.lucidchart.com/blog/8-steps-of-the-benchmarking-process) - the process of measuring and comparing the performance, quality, or efficiency of a product, service, or process against a standard or best practice, often within the same industry. The goal is to identify areas of improvement and set goals for achieving better performance.
