@@ -6,7 +6,7 @@ Dictionary - saves useful terminology
 - `Blob storage` is a type of cloud storage that stores large amounts of unstructured data in non-hierarchical storage areas. The term "blob" is short for "binary large object". 
 - `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
 - `Canvas` is a course management system (LMS - Learning Management System) that helps teachers and students with online learning and teaching
-- [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) - is a command-line tool that is part of Foundry — a development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
+- [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) - is a command-line tool that is part of Foundry — development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
    ```
    # cast is part of Foundry, so you’ll need to install Foundry first:
    curl -L https://foundry.paradigm.xyz | bash
