@@ -35,7 +35,7 @@ Dictionary - saves useful terminology
       curl -4 ifconfig.me
       ```
   - `127.0.0.1` - is the loop back ip adress, used by the system to communicate with itself
-- [IRO](https://medium.com/@dymension/initial-rollapp-offerings-from-token-to-ecosystem-d30f94f5fb79#:~:text=Initial%20RollApp%20Offerings%20(IRO)%20allow,when%20the%20RollApp%20goes%20live) - 
+- [IRO](https://medium.com/@dymension/initial-rollapp-offerings-from-token-to-ecosystem-d30f94f5fb79#:~:text=Initial%20RollApp%20Offerings%20(IRO)%20allow,when%20the%20RollApp%20goes%20live) - Initial RollApp Offerings allow anyone to create and participate in early trading of RollApp tokens before the RollApp officially launches. Funds from this early token trading period are used to seed liquidity when the RollApp goes live.
 - [Jenkins](https://www.jenkins.io/) is an open-source automation server used for continuous integration (CI) and continuous delivery (CD) in software development. It allows developers to automate the building, testing and deployment of applications, making the development process more efficient and reliable.
 - [Keyless Wallet](https://selfchain.xyz/keyless-wallets) - The main idea is the splitting of a random seed phrases into multiple parts. The initial setup uses a 2-of-3 shares: Personal Share, Remote Share and Recovery Share.
 - [Light Node vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network. `Full Node` contains a complete copy of the network.
