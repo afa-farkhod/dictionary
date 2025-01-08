@@ -35,6 +35,7 @@ Dictionary - saves useful terminology
       curl -4 ifconfig.me
       ```
   - `127.0.0.1` - is the loop back ip adress, used by the system to communicate with itself
+- [IRO]() - 
 - [Jenkins](https://www.jenkins.io/) is an open-source automation server used for continuous integration (CI) and continuous delivery (CD) in software development. It allows developers to automate the building, testing and deployment of applications, making the development process more efficient and reliable.
 - [Keyless Wallet](https://selfchain.xyz/keyless-wallets) - The main idea is the splitting of a random seed phrases into multiple parts. The initial setup uses a 2-of-3 shares: Personal Share, Remote Share and Recovery Share.
 - [Light Node vs Full Node](https://www.ledger.com/academy/glossary/light-node) - `Light Node` is typically smaller in size and contain only partial information about the network. `Full Node` contains a complete copy of the network.
