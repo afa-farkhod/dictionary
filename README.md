@@ -4,7 +4,7 @@ Dictionary - saves useful terminology
 - `AVS` - stands for Actively Validated Service in blockchain. AVS is a new concept in crypto-economic security that allows developers to use Ethereum's economic security infrastructure to create new AVSs. EigenLayer is a protocol built on Ethereum that uses restaking to create AVSs
 - [Benchmarking](https://www.lucidchart.com/blog/8-steps-of-the-benchmarking-process) - the process of measuring and comparing the performance, quality or efficiency of a product, service or process against a standard or best practice, often within the same industry. The goal is to identify areas of improvement and set goals for achieving better performance.
 - `Blob storage` is a type of cloud storage that stores large amounts of unstructured data in non-hierarchical storage areas. The term "blob" is short for "binary large object". 
-- `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing, and releasing software
+- `CI/CD pipeline` - continuous integration and continuous delivery pipeline, is a series of steps that automate the process of building, testing and releasing software
 - `Canvas` is a course management system (LMS - Learning Management System) that helps teachers and students with online learning and teaching
 - [cast](https://www.raycast.com/merklefruit/foundry-cast-cli) - is a command-line tool that is part of Foundry — development framework for Ethereum and other EVM-compatible blockchains. It provides a lightweight, efficient way to interact with smart contracts, send transactions and query on-chain data directly from your terminal.
    ```
