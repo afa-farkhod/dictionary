@@ -25,7 +25,7 @@ Dictionary - saves useful terminology
 - [Flagship](https://www.merriam-webster.com/dictionary/flagship) - A flagship office is the most important or leading office of a company. The term "flagship" comes from naval traditions, where the flagship is the lead ship in a fleet.
 - [Gemini](https://blog.google/technology/ai/google-gemini-ai/#sundar-note) is Google's AI model that uses natural language processing (NLP) to understand and respond to user inputs.
 - [Gamma](https://gamma.app/) - AI is an artificial intelligence-powered tool that allows users to quickly generate visually appealing presentations, documents and webpages by simply inputting text, essentially eliminating the need for extensive design knowledge and significantly streamlining the content creation process.
-- [HAProxy]() - 
+- [HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts) - 
 - [Intel SGX](https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/software-guard-extensions.html) - The Intel Software Guard Extensions (SGX) is a feature that uses hardware-level encryption to protect your sensitive data from security breaches.
 - [IaC](https://aws.amazon.com/what-is/iac/) - Infrastructure as Code is a DevOps practice that uses code to provision and manage an organization's IT infrastructure. IaC allows developers to automate tasks like setting up, updating, and maintaining infrastructure, so they can focus on building applications.  
 - `IP address`:
